@@ -1,0 +1,44 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@500&family=Open+Sans:wght@300&family=Heebo&family=Source+Sans+Pro:wght@300&display=swap");
+
+@font-face {
+  font-family: "konnectBold";
+  src: url("../fonts/Konnect-Bold.woff2") format("woff2"),
+    url("../fonts/Konnect-Bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "konnectThin";
+  src: url("../fonts/Konnect-Thin.woff2") format("woff2"),
+    url("../fonts/Konnect-Thin.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "ConthraxSb-Regular";
+  src: url("../fonts/ConthraxSb-Regular.woff2") format("woff2"),
+    url("../fonts/ConthraxSb-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Monkirta Pursuit NC";
+  src: url("../fonts/MonkirtaPursuitNC.woff2") format("woff2"),
+    url("../fonts/MonkirtaPursuitNC.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "xolonium";
+  src: url("../fonts/Xolonium-Regular.woff2") format("woff2"),
+    url("../fonts/Xolonium-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
