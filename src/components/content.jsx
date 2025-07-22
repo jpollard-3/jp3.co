@@ -2,7 +2,6 @@ import React, { Component } from "react";
 import { motion } from "framer-motion";
 import { Link } from "react-router-dom";
 import Form from './form.jsx'
-
 import { siteURL } from "./common/branding";
 
 class Content extends Component {

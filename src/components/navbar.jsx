@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 import MenuMover from "./menuMover.jsx";
 
 class NavBar extends Component {

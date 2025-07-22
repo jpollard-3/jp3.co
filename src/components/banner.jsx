@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import { Fader, CaptionFader, Fader2} from "./fader.jsx";
+import { CaptionFader, Fader2} from "./fader.jsx";
 
 import { siteURL } from "./common/branding.jsx";
 

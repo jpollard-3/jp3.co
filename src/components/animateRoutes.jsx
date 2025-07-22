@@ -1,4 +1,4 @@
-import { useLocation, BrowserRouter, Routes, Route } from 'react-router-dom'
+import { useLocation, Routes, Route } from 'react-router-dom'
 import { motion, AnimatePresence } from "framer-motion";
 import Content from './content.jsx'
 import MediaContent from './content_media.jsx'

@@ -1,6 +1,5 @@
-import * as React from "react";
 import { CSSTransition, TransitionGroup } from 'react-transition-group';
-import {useState, useRef} from 'react';
+import { useRef } from 'react';
 import { motion, AnimatePresence } from "framer-motion";
 
 
@@ -140,7 +139,6 @@ const imageIndex = 0;
       className={cName}
       key={bi}
       src={bi}
-  /*     src="https://jp3.co/imgs/banner1_4kcomp.jpg" */
       variants={variants}
       initial="enter"
       animate="center"

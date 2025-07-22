@@ -1,9 +1,8 @@
-import React, { Component } from "react";
-import { useLocation} from 'react-router-dom';
+import { Component } from "react";
 import Banner from "./components/banner.jsx";
 import NavBar from "./components/navbar.jsx";
 import UserWindow from "./components/common/UserWindow.jsx";
-import "./css/main_new.css";
+import "./css/main.css";
 import "./css/fonts.css";
 import "./css/form.css";
 import ScrollState from "./components/common/scrollState.jsx";

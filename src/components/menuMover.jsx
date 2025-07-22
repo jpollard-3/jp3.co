@@ -1,11 +1,7 @@
 import React, { useEffect, useState, useRef } from "react";
 import { gsap } from "gsap";
-import { motion, AnimatePresence } from "framer-motion";
-import { Router, Link } from "react-router-dom";
-
-
-/* import Branding from "./common/scrollState.jsx"; */
-
+import { motion} from "framer-motion";
+import { Link } from "react-router-dom";
 import { siteName } from "./common/branding";
 
 export default function MenuMover(props) {

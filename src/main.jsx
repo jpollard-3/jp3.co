@@ -1,8 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import AnimatedRoutes from './components/animateRoutes.jsx'
-import { useLocation, BrowserRouter, Routes, Route } from 'react-router-dom'
-import { motion, AnimatePresence } from "framer-motion";
+import { BrowserRouter } from 'react-router-dom'
 
 import { siteName } from './components/common/branding.jsx';
 
