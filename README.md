@@ -1,4 +1,4 @@
-This is the source for my site jp3.co -
+This is the source for the retired 2024 version of my site jp3.co -
 
 _______________________________________________________________________________
 
